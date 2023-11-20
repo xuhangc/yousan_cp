@@ -4,7 +4,66 @@
 
 ### 1.1.1 摄影发展史
 
+Photograph=光线+绘图
+
+John Herschel提出了摄影负片（Negative）、正片（Positive）
+
+小孔成像
+
+映像暗箱
+
+1826年，Joseph Nicéphore Nièpce拍摄第一张永久性照片Windows at Le Gras，方法日光蚀刻法（阳光摄影法）
+
+1837年，Louis Jacques Mandé Daguerre发明银版摄影法（达盖尔银版法）
+
+1841年，William Henry Fox Talbot发明卡罗式摄影法（卡罗法）
+
+1847年，Nièpce de Saint Victor发明“蛋清玻璃”摄影法
+
+1851年，Frederick Scott Archer发明火棉胶（湿版）摄影法
+
+1871年，Maddox研发出“干”用材料
+
+1878年，George Eastman发明了干明胶胶片（干版）
+
+1880年，Eastman和Strong成立伊士曼（Eastman）干版公司
+
+1892年，伊士曼干版公司改名Eastman Kodak
+
+1913年，恩斯特·莱兹光学的Oskar Barnack制作出第一台24mm * 36mm（135相机的胶卷画幅） 原型徕卡相机（Ur-Leica），由于135相机的胶卷和方型齿孔的总高度是35mm，因此也称为35mm相机
+
+1925年，徕卡相机I型在德国Wetzlar的恩斯特·莱兹光学工厂正式出产
+
+1936年，德国Ihagee公司发布了世界上第一台使用135胶片的单镜头反光相机Kine Exaktas
+
+1948年，德国Ihagee公司生产了世界上第一台五棱镜取景的135单反相机Contax S，现代135单反相机的雏形
+
+1954年，日本旭光学工业公司在Asahi-Pentax上解决了反光板的自动复位问题
+
+1975年，Kodak的Steven J.Sasson发明了第一台无胶卷手持相机，塞尚因此被成为“数码相机之父”
+
+1981年，日本Sony退出第一台不用感光胶片的电子相机MABIKA
+
+1986年，日本Sony发布的MYC-A7AF第一次让数码相机具备了纯物理操作方法
+
+1991年，Kodak试制成功世界上第一台数码相机
+
+1991年，日本Toshiba制造出第一台在市场出售的数码相机——40万像素的MC200
+
+1998年，日本Fujifilm推出首款百万像素的轻便型数码相机
+
+1999年，200万像素之年
+
+至今，全民摄影时代
+
 ### 1.1.2 摄影流派
+
+1. 写实主义
+2. 绘画主义
+3. 印象主义
+4. 自然主义
+5. 纯粹主义
+6. 抽象主义
 
 ### 1.1.3 为什么学习摄影
 
