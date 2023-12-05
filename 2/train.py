@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
-from MobilNet import MobileNet
+from MobileNet import MobileNet
 
 # Assuming MobileNet is available in torchvision or custom implementation
 model = MobileNet()  # Use appropriate MobileNet version
